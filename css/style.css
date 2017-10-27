@@ -1,4 +1,44 @@
-.fancy-header {
+h1 {
     color: purple;
     text-decoration: underline;
 }
+
+.fancy-header{
+    text-align: center;
+}
+h2{
+    color: darkorange;
+    text-decoration: underline;
+}
+h3{
+    color: crimson;
+    text-decoration: underline;
+}
+body{
+    background-image: url("../images/ltblue_background.jpeg");
+    font-family: "American Typewriter"
+}
+ul{
+    list-style-type: square;
+}
+
+th, td{
+    padding: 15px;
+    text-align: left;
+    border: 1px solid black;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: aqua;
+}
+
+
+
